@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  kylie:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-31T10:11:37.091777844Z"
+    description: A Helm chart for Kubernetes
+    digest: b8838a2a4a5e4e7eb48f3e1ddf4023349ddc4f58af7943995b2407ebf2cd7042
+    name: kylie
+    type: application
+    urls:
+    - https://github.com/mirii1994/workflow-helm-test/releases/download/kylie-0.1.0/kylie-0.1.0.tgz
+    version: 0.1.0
+  miri:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-31T10:11:37.313478886Z"
+    description: A Helm chart for Kubernetes
+    digest: e373b66a0a526b21d0880dc4909552256fed4b993f3709f2741948c36fb0d178
+    name: miri
+    type: application
+    urls:
+    - https://github.com/mirii1994/workflow-helm-test/releases/download/miri-0.1.0/miri-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-31T10:11:37.313485098Z"
