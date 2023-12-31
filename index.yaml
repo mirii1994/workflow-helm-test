@@ -13,6 +13,16 @@ entries:
     version: 0.1.0
   miri:
   - apiVersion: v2
+    appVersion: 1.17.0
+    created: "2023-12-31T11:36:52.438119721Z"
+    description: A Helm chart for Kubernetes
+    digest: 301c68f47b87e2cbf7921493136f2ed5cd8f12bdcb4f0795f2cf983a95c89b67
+    name: miri
+    type: application
+    urls:
+    - https://github.com/mirii1994/workflow-helm-test/releases/download/miri-0.3.1/miri-0.3.1.tgz
+    version: 0.3.1
+  - apiVersion: v2
     appVersion: 1.16.0
     created: "2023-12-31T10:34:38.423186901Z"
     description: A Helm chart for Kubernetes
@@ -32,4 +42,4 @@ entries:
     urls:
     - https://mirii1994.github.io/workflow-helm-test/miri-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-31T10:34:38.423211974Z"
+generated: "2023-12-31T11:36:52.438131493Z"
