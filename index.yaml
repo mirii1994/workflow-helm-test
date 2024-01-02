@@ -14,6 +14,22 @@ entries:
   miri:
   - apiVersion: v2
     appVersion: 1.17.0
+    created: "2024-01-02T09:06:47.585218114Z"
+    dependencies:
+    - name: kube-state-metrics
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 4.24.0
+    description: A Helm chart for Kubernetes
+    digest: 8ea42987d0cbbb28fa6575870a9c24412c5f77e4d133ac46d691c544be7e2ed0
+    name: miri
+    sources:
+    - https://github.com/kubernetes/kube-state-metrics
+    type: application
+    urls:
+    - https://github.com/mirii1994/workflow-helm-test/releases/download/miri-1.0.0/miri-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.17.0
     created: "2023-12-31T11:36:52.438119721Z"
     description: A Helm chart for Kubernetes
     digest: 301c68f47b87e2cbf7921493136f2ed5cd8f12bdcb4f0795f2cf983a95c89b67
@@ -42,4 +58,4 @@ entries:
     urls:
     - https://mirii1994.github.io/workflow-helm-test/miri-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-31T11:36:52.438131493Z"
+generated: "2024-01-02T09:06:47.585255313Z"
